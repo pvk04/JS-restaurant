@@ -1,5 +1,6 @@
 # JS-restaurant
 accounts for login:
+
   login: "alex",
   password: "1234";
   
